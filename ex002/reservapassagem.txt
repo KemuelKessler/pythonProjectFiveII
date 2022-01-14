@@ -1,0 +1,2 @@
+3;Sao Paulo;Rio de Janeiro;17/01/2022;28/01/2022
+5;Natal;Sao Paulo;07/02/2022;15/02/2022

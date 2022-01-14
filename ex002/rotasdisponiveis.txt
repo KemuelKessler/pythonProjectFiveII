@@ -1,0 +1,11 @@
+                        IDA
+
+1 - (SP) SAO PAULO (GRU) - (RN) NATAL (NAT)
+2 - (SP) SAO PAULO (CGH) - (SC) BLUMENAU (BNU)
+3 - (SP) SAO PAULO (GRU) - (RJ) RIO DE JANEIRO (GIG)
+
+                        VOLTA
+
+4 - (SC) BLUMENAU (BNU) - (SP) SAO PAULO (GRU)
+5 - (RN) NATAL (NAT) - (SP) SAO PAULO (CGH)
+6 - (RJ) RIO DE JANEIRO (GIG) - (SP) SAO PAULO (GRU)
